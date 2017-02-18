@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<section>
+  <h3>Featured notes</h3>
+  <p>
+    - <a href="/posts/944081d6-c1c9-4369-bc89-5b38623277e3.html">Who I am and why you may want to read my notes</a><br>
+  </p>
+</section>
+
+<section>
+  <h3>All notes</h3>
+  <ul>
+{% for post in site.posts %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+  </ul>
+</section>
+
+<!-- <p>
+  Health is "a state of complete physical, mental and social well-being" (World Health Organization), and my particular interests revolve around human-computer interaction.
+</p> -->
