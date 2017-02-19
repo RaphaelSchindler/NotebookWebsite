@@ -1,6 +1,5 @@
 ---
 title: Enough with the pleasantries
-permalink: "/posts/188ef545-d1c5-46b1-9c70-5bd34bfc8f60.html"
 ---
 
 # Enough with the pleasantries
