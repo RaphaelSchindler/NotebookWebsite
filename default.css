@@ -29,7 +29,7 @@ h3 { color: #7f7f7f; }
 p aside { color: #7f7f7f; }
 
 blockquote { padding-left: 23px; }
-blockquote { border-left: 1px solid #3f3f3f; }
+blockquote { border-left: 1px solid #9f9f9f; }
 body > footer { margin-bottom: 96px; }
 
 .padded { padding-top: 72px; padding-bottom: 72px; }
@@ -71,11 +71,7 @@ a { text-decoration: none; }
 code { white-space: pre; }
 sup { vertical-align: super; line-height: 0; font-size: smaller; }
 
-
-
-ul > li         { margin-left: 12px; }
 ul > li::before { content: "-"; display: inline-block; width: 0; position: relative; top: 0px; left: -12px; }
-
 
 ol.notes::before { content: ""; display: block; width: 72px; height: 23px; border-top: 1px solid #5f5f5f; }
 ol.notes         { line-height: 18px; font-size: 14px; list-style: decimal outside; margin-top: 18px; }

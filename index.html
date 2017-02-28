@@ -13,12 +13,10 @@ layout: default
   <h3>All notes</h3>
   <ul>
 {% for post in site.posts %}
-    <li>
-      <aside in-the-margin>
-        <p without-vertical-margins right-aligned italic special-tabular pale>{{ post.date | date: "%Y-%m-%d" }}</p>
-      </aside>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
+    <aside in-the-margin>
+      <p without-vertical-margins right-aligned italic special-tabular pale>{{ post.date | date: "%Y-%m-%d" }}</p>
+    </aside>
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
   </ul>
 </section>
