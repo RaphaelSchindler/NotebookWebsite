@@ -7,8 +7,8 @@
 body { min-width: 240px; margin: 0 auto; padding: 24px; }
 @media (max-width: 767px) { /* 'Compact width' (corresponding to a content width less than 720px) */
     body { max-width: 480px; }
-    [in-the-margin] * { width: 192px; }
-    [in-the-margin] { display: block; margin-top: 24px; margin-bottom: 24px; }
+    [in-the-margin] * { width: 192px; text-align: left !important; }
+    [in-the-margin] { width: 192px; display: block; margin-top: 24px; margin-bottom: 0; }
 }
 @media (min-width: 768px) { /* 'Regular width' (corresponding to a content width greater than 720px) */
     body { width: 720px; }
@@ -92,6 +92,6 @@ p[delete-line] { margin-top: -24px; }
 [without-top-margin] { margin-top: 0; }
 [like-paragraph-text] { line-height: 24px; font-size: 16px; font-family: Rubik; }
 [italic] { font-style: italic; }
-[special-tabular] { font-feature-settings: "tnum"; font-size: 14px; font-family: sans-serif; position: relative; left: 3px; }
+[special-tabular] { font-feature-settings: "tnum"; font-size: 14px; font-family: sans-serif; /*position: relative; left: 3px;*/ }
 [right-aligned] { text-align: right; }
 html { -moz-text-size-adjust: none; -ms-text-size-adjust: none; -webkit-text-size-adjust: none; text-size-adjust: none; }
