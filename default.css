@@ -17,6 +17,7 @@ body { min-width: 240px; margin: 0 auto; padding: 24px; }
     [in-the-margin] { width: 216px; display: block; float: left; margin-left: -240px; }
 }
 body > main { margin-top: 48px; margin-bottom: 48px; }
+body > footer { margin-bottom: 96px; }
 
 /* Colour */
 
@@ -30,7 +31,6 @@ p aside { color: #7f7f7f; }
 
 blockquote { padding-left: 23px; }
 blockquote { border-left: 1px solid #9f9f9f; }
-body > footer { margin-bottom: 96px; }
 
 .padded { padding-top: 72px; padding-bottom: 72px; }
 .shifted-up { margin-top: -24px; }
@@ -40,32 +40,20 @@ hr { border: 0; border-bottom: 1px solid #9f9f9f; height: 0; margin: 0; margin-t
 hr[asterism] { display: block; border: 0; content: "hi"; height: 24px; margin: 0;}
 hr[asterism]::before { content: "\2042"; text-align: center; display: block; position: relative; top: 4px; }
 
-hr.separator { display: block; width: 72px; margin: 23px auto 24px 0; border-bottom: 1px solid #3f3f3f; }
-hr.note-separator { width: 100%; margin: 23px 0 24px 0; border-bottom: 1px dashed #3f3f3f; }
-hr.middle-separator { width: 72px; margin: 23px auto 24px auto; border-bottom: 1px solid #3f3f3f; }
-
-/*section + section::before { content: "* * *"; text-align: center; display: block; position: relative; top: 4px; }
-*/
-
 /* Typography */
 
-@font-face { font-family: Rubik; src: url("/assets/font--Rubik/Rubik-Light.ttf") format("truetype"); }
-@font-face { font-family: Rubik; font-style: italic; src: url("/assets/font--Rubik/Rubik-LightItalic.ttf") format("truetype"); }
-@font-face { font-family: Rubik; font-weight: bold; src: url("/assets/font--Rubik/Rubik-Medium.ttf") format("truetype"); }
-@font-face { font-family: Rubik; font-weight: bold; font-style: italic; src: url("/assets/font--Rubik/Rubik-MediumItalic.ttf") format("truetype"); }
+body { font-family: Georgia, sans-serif; }
 
-body { font-family: Rubik, sans-serif; }
-p          { line-height: 24px; font-size: 16px; margin: 24px 0; }
-td         { line-height: 24px; font-size: 16px; }
-blockquote { line-height: 24px; font-size: 16px; margin: 24px 0; }
-ol, ul     { line-height: 24px; font-size: 16px; margin: 24px 0; }
-li         { line-height: 24px; font-size: 16px; }
-h1         { line-height: 24px; font-size: 18px; margin: 48px 0; font-weight: bold; }
-h2         { line-height: 24px; font-size: 21px; }
-h3         { line-height: 24px; font-size: 16px; margin: 24px 0; margin-bottom: -24px; font-weight: bold; }
+p, td, blockquote, ol, ul, li, h1, h2, h3 { line-height: 24px; }
+p, td, blockquote, ol, ul, li, h3 { font-size: 16px; }
+h1 { font-size: 18px; }
+h2 { font-size: 21px; }
+h1, h3 { font-weight: bold; }
+p, blockquote, ol, ul, h3 { margin: 24px 0; }
+h1 { margin: 48px 0; }
+h3 { margin: 24px 0 -24px 0; }
 
 em, i { font-style: italic; }
-
 strong, b { font-weight: bold; }
 a { text-decoration: none; }
 code { white-space: pre; }
@@ -90,8 +78,8 @@ p[delete-line] { margin-top: -24px; }
 [without-margins] { margin: 0; }
 [without-vertical-margins] { margin-top: 0; margin-bottom: 0; }
 [without-top-margin] { margin-top: 0; }
-[like-paragraph-text] { line-height: 24px; font-size: 16px; font-family: Rubik; }
+[like-paragraph-text] { line-height: 24px; font-size: 16px; }
 [italic] { font-style: italic; }
-[special-tabular] { font-feature-settings: "tnum"; font-size: 14px; font-family: sans-serif; /*position: relative; left: 3px;*/ }
+[special-tabular] { font-feature-settings: "tnum"; font-size: 14px; font-family: "Helvetica Neue", sans-serif; }
 [right-aligned] { text-align: right; }
 html { -moz-text-size-adjust: none; -ms-text-size-adjust: none; -webkit-text-size-adjust: none; text-size-adjust: none; }
