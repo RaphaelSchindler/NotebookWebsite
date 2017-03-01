@@ -155,8 +155,8 @@ Using speech act theory as a foundation, they synthesize their own theory, which
 > Part II (Chapters 7--10) addresses concrete questions about what computers do.
 
 > Part III (Chapters 11 and 12) presents an alternative orientation to design, based on the theoretical background we have developed.
-<p delete-line/>
-And their approach being question-based, they stress that the relevant questions are "those opening up a potential for computers that play a meaningful role in human life and work."
+
+Their approach being question-based, they stress that the relevant questions are "those opening up a potential for computers that play a meaningful role in human life and work."
 
 Summarizing their outline in my own words, the parts of the book involve:
 <p delete-line></p>
