@@ -12,7 +12,7 @@ Mr. Drucker recommends, first, finding out one's strengths1, then advises, "put 
 
 * * *
 
-He adds, "it is equally essential to remedy your bad habits2," highlighting bad manners or "intellectual arrogance" as a bad habit particularly common among knowledge workers: "Manners are the lubricating oil of an organization. It is a law of nature that two moving bodies in contact with each other create friction. Bright people, especially bright young people, often do not understand this. If ... someone's brilliant work fails again and again as soon as cooperation from others is required, it probably indicates a lack of courtesy—that is, a lack of manners."
+He adds, "it is equally essential to remedy your bad habits," highlighting bad manners or "intellectual arrogance" as a bad habit particularly common among knowledge workers: "Manners are the lubricating oil of an organization. It is a law of nature that two moving bodies in contact with each other create friction. Bright people, especially bright young people, often do not understand this. If ... someone's brilliant work fails again and again as soon as cooperation from others is required, it probably indicates a lack of courtesy—that is, a lack of manners."
 
 * * *
 
