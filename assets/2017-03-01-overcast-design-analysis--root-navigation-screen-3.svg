@@ -1,0 +1,173 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 1196 480 254">
+  <defs>
+    <style>
+      .cls-1, .cls-7 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-Root_navigation_screen_3);
+      }
+
+      .cls-3, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        stroke: #95989a;
+      }
+
+      .cls-4, .cls-7 {
+        stroke: #3375a0;
+      }
+
+      .cls-5 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-6 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-10, .cls-8 {
+        fill: #3cba76;
+        font-size: 16px;
+      }
+
+      .cls-11, .cls-8 {
+        font-family: ArialUnicodeMS, Arial Unicode MS;
+      }
+
+      .cls-10, .cls-9 {
+        font-family: HoeflerText-Regular, Hoefler Text;
+      }
+
+      .cls-12 {
+        stroke: none;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" width="138" height="224"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect class="cls-1" width="138" height="2"/>
+    </clipPath>
+    <clipPath id="clip-Root_navigation_screen_3">
+      <rect y="1196" width="480" height="254"/>
+    </clipPath>
+  </defs>
+  <g id="Root_navigation_screen_3" data-name="Root navigation screen 3" class="cls-2">
+    <g id="Right" transform="translate(0 1196)">
+      <g id="Table_view_cell" data-name="Table view cell" transform="translate(0 63)">
+        <g id="Table_view_cell-2" data-name="Table view cell" class="cls-3" transform="translate(275 47)">
+          <rect class="cls-12" width="138" height="34"/>
+          <rect class="cls-1" x="0.5" y="0.5" width="137" height="33"/>
+        </g>
+      </g>
+    </g>
+    <g id="Left" transform="translate(-208 1151)">
+      <g id="Table_view" data-name="Table view" class="cls-4" transform="translate(273 57)">
+        <rect class="cls-12" width="142" height="230"/>
+        <rect class="cls-1" x="0.5" y="0.5" width="141" height="229"/>
+      </g>
+      <g id="Table_view_cells" data-name="Table view cells" class="cls-5" transform="translate(275 59)">
+        <g id="Group_1" data-name="Group 1" transform="translate(-275 -47)">
+          <g id="Table_view_cell-3" data-name="Table view cell">
+            <g id="Table_view_cell-4" data-name="Table view cell" class="cls-3" transform="translate(275 47)">
+              <rect class="cls-12" width="138" height="34"/>
+              <rect class="cls-1" x="0.5" y="0.5" width="137" height="33"/>
+            </g>
+          </g>
+        </g>
+        <g id="Group_2" data-name="Group 2" transform="translate(-275 -12)">
+          <g id="Table_view_cell-5" data-name="Table view cell">
+            <g id="Table_view_cell-6" data-name="Table view cell" class="cls-3" transform="translate(275 47)">
+              <rect class="cls-12" width="138" height="34"/>
+              <rect class="cls-1" x="0.5" y="0.5" width="137" height="33"/>
+            </g>
+          </g>
+        </g>
+        <g id="Group_3" data-name="Group 3" transform="translate(-275 23)">
+          <g id="Table_view_cell-7" data-name="Table view cell">
+            <g id="Table_view_cell-8" data-name="Table view cell" class="cls-3" transform="translate(275 47)">
+              <rect class="cls-12" width="138" height="34"/>
+              <rect class="cls-1" x="0.5" y="0.5" width="137" height="33"/>
+            </g>
+          </g>
+        </g>
+        <g id="Group_4" data-name="Group 4" transform="translate(-275 58)">
+          <g id="Table_view_cell-9" data-name="Table view cell">
+            <g id="Table_view_cell-10" data-name="Table view cell" class="cls-3" transform="translate(275 47)">
+              <rect class="cls-12" width="138" height="34"/>
+              <rect class="cls-1" x="0.5" y="0.5" width="137" height="33"/>
+            </g>
+          </g>
+        </g>
+        <g id="Group_5" data-name="Group 5" transform="translate(-275 93)">
+          <g id="Table_view_cell-11" data-name="Table view cell">
+            <g id="Table_view_cell-12" data-name="Table view cell" class="cls-3" transform="translate(275 47)">
+              <rect class="cls-12" width="138" height="34"/>
+              <rect class="cls-1" x="0.5" y="0.5" width="137" height="33"/>
+            </g>
+          </g>
+        </g>
+        <g id="Group_6" data-name="Group 6" transform="translate(-275 128)">
+          <g id="Table_view_cell-13" data-name="Table view cell">
+            <g id="Table_view_cell-14" data-name="Table view cell" class="cls-3" transform="translate(275 47)">
+              <rect class="cls-12" width="138" height="34"/>
+              <rect class="cls-1" x="0.5" y="0.5" width="137" height="33"/>
+            </g>
+          </g>
+        </g>
+        <g id="Group_7" data-name="Group 7" transform="translate(-275 163)">
+          <g id="Table_view_cell-15" data-name="Table view cell">
+            <g id="Table_view_cell-16" data-name="Table view cell" class="cls-3" transform="translate(275 47)">
+              <rect class="cls-12" width="138" height="34"/>
+              <rect class="cls-1" x="0.5" y="0.5" width="137" height="33"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Dotted_line" data-name="Dotted line" class="cls-6" transform="translate(275 284)">
+        <g id="Group_8" data-name="Group 8" transform="translate(-275 -272.5)">
+          <line id="Viewport_line" data-name="Viewport line" class="cls-7" x2="6" transform="translate(275 273)"/>
+        </g>
+        <g id="Group_9" data-name="Group 9" transform="translate(-263 -272.5)">
+          <line id="Viewport_line-2" data-name="Viewport line" class="cls-7" x2="6" transform="translate(275 273)"/>
+        </g>
+        <g id="Group_10" data-name="Group 10" transform="translate(-251 -272.5)">
+          <line id="Viewport_line-3" data-name="Viewport line" class="cls-7" x2="6" transform="translate(275 273)"/>
+        </g>
+        <g id="Group_11" data-name="Group 11" transform="translate(-239 -272.5)">
+          <line id="Viewport_line-4" data-name="Viewport line" class="cls-7" x2="6" transform="translate(275 273)"/>
+        </g>
+        <g id="Group_12" data-name="Group 12" transform="translate(-227 -272.5)">
+          <line id="Viewport_line-5" data-name="Viewport line" class="cls-7" x2="6" transform="translate(275 273)"/>
+        </g>
+        <g id="Group_13" data-name="Group 13" transform="translate(-215 -272.5)">
+          <line id="Viewport_line-6" data-name="Viewport line" class="cls-7" x2="6" transform="translate(275 273)"/>
+        </g>
+        <g id="Group_14" data-name="Group 14" transform="translate(-203 -272.5)">
+          <line id="Viewport_line-7" data-name="Viewport line" class="cls-7" x2="6" transform="translate(275 273)"/>
+        </g>
+        <g id="Group_15" data-name="Group 15" transform="translate(-191 -272.5)">
+          <line id="Viewport_line-8" data-name="Viewport line" class="cls-7" x2="6" transform="translate(275 273)"/>
+        </g>
+        <g id="Group_16" data-name="Group 16" transform="translate(-179 -272.5)">
+          <line id="Viewport_line-9" data-name="Viewport line" class="cls-7" x2="6" transform="translate(275 273)"/>
+        </g>
+        <g id="Group_17" data-name="Group 17" transform="translate(-167 -272.5)">
+          <line id="Viewport_line-10" data-name="Viewport line" class="cls-7" x2="6" transform="translate(275 273)"/>
+        </g>
+        <g id="Group_18" data-name="Group 18" transform="translate(-155 -272.5)">
+          <line id="Viewport_line-11" data-name="Viewport line" class="cls-7" x2="6" transform="translate(275 273)"/>
+        </g>
+        <g id="Group_19" data-name="Group 19" transform="translate(-143 -272.5)">
+          <line id="Viewport_line-12" data-name="Viewport line" class="cls-7" x2="6" transform="translate(275 273)"/>
+        </g>
+      </g>
+    </g>
+    <text id="_1" data-name="↜ 1" class="cls-8" transform="translate(206.5 1238)"><tspan x="0" y="0">↜</tspan><tspan class="cls-9" y="0" xml:space="preserve"> 1</tspan></text>
+    <text id="_2_" data-name="2 ↝" class="cls-10" transform="translate(253 1327)"><tspan x="0" y="0">2 </tspan><tspan class="cls-11" y="0">↝</tspan></text>
+  </g>
+</svg>

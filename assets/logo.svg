@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 240 480 72">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Logo);
+      }
+
+      .cls-2 {
+        fill: #7f7f7f;
+        font-size: 21px;
+        font-family: HoeflerText-Black, Hoefler Text;
+        font-weight: 800;
+      }
+
+      .cls-3 {
+        font-family: HoeflerText-Regular, Hoefler Text;
+        font-weight: 400;
+      }
+    </style>
+    <clipPath id="clip-Logo">
+      <rect y="240" width="480" height="72"/>
+    </clipPath>
+  </defs>
+  <g id="Logo" class="cls-1">
+    <text id="_The_Notebook_of_Raphael_Schindler_" data-name="      The Notebook
+of Raphael Schindler
+" class="cls-2" transform="translate(0 255)"><tspan x="0" y="0" xml:space="preserve">      The Notebook</tspan><tspan class="cls-3" y="0"></tspan><tspan x="0" y="25">of Raphael Schindler</tspan><tspan x="0" y="50"></tspan></text>
+    <g id="Asterism_21" data-name="Asterism 21" transform="translate(-154 161)">
+      <text id="_" data-name="*" class="cls-2" transform="translate(165 94)"><tspan x="-4.127" y="0">*</tspan></text>
+      <text id="_2" data-name="*" class="cls-2" transform="translate(160 102)"><tspan x="-4.127" y="0">*</tspan></text>
+      <text id="_3" data-name="*" class="cls-2" transform="translate(170 102)"><tspan x="-4.127" y="0">*</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,22 +1,18 @@
 ---
-title: From reading <i>Understanding Computers and Cognition</i>
+title: From reading <i>Understanding Computers and Cognition</i>, by Terry Winograd and Fernando Flores
 ---
 
-# From reading _Understanding Computers and Cognition_
-
-### What this post is about
-Quite simply: things I wrote down while reading the book.
+# From reading _Understanding Computers and Cognition_, by Terry Winograd and Fernando Flores
 
 ### About the book
-<aside in-the-margin><figure><img class="small" src="/assets/2017-02-26-understanding-computers-and-cognition--book-cover.jpg"></figure></aside>
+<aside in-the-margin>
+  <figure><img class="small" src="/assets/2017-02-26-understanding-computers-and-cognition--book-cover.jpg">
+  </figure>
+</aside>
+- _Understanding Computers and Cognition_, by Terry Winograd and Fernando Flores
+- Published in 1986
 
-- _Understanding Computers and Cognition_,<br>by Terry Winograd and Fernando Flores
-- Published 1986
-
-### Preamble
-I invite you to relinquish your expectations of what constitutes a written work. The following is rather a stream-of-consciousness than a narrative. You will find no statements from myself or quoted from the book unless I find them to be significant. My approach is simply to gather phrases, ideas, and perspectives; which I could collectively call 'fragments of intellection,' or 'artefacts of mind;' and to put them before you and myself, as on a platter.
-
-<hr asterism>
+* * *
 
 They consider topics that "appear to be worlds apart," in order to "let the apparent chasms become spaces in which new possibilities are revealed."
 
