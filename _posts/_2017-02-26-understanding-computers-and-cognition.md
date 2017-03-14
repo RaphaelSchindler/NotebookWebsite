@@ -171,4 +171,68 @@ What managers do:
 
 > In one sense then, this is a book about computers. But it reaches beyond the specific issues of what computers can do. Our larger goal is to clarify the background of understanding in which the discourse about computers and technology takes place, and to grasp its broader implications. Ultimately we are seeking a better understanding of what it means to be human. In this quest, progress is not made by finding the 'right answers,' but by asking meaningful questions---ones that evoke an openness to new ways of being. We invite the readers to create with us an openness that can alter our collective vision of how computer technology will develop in the coming decades.
 
-<hr asterism>
+* * *
+
+The rationalistic tradition:
+<p delete-line/>
+- "Has been the mainspring of Western science and technology."
+- "Finds its highest expression in mathematics and logic."
+- "Has greatly influenced the development of linguistics and psychology."
+
+Mr. Winograd and Mr. Flores find the rationalistic tradition to be problematic, and labour to convey that viewpoint. I see a more fundamental problem. I see that tool use itself is problematic, and through using tools, we change ourselves: in learning to use a knife, you begin to keep an eye out for things to cut. So what happens in a society steeped in tools as we are? By this influence that tool use has on our psychology, we must be really distorting the truth of our existence.
+
+To wit:
+<p delete-line/>
+> Much of our book is an attempt to show the non-obviousness of the rationalistic orientation and to reveal the blindness that it generates.
+
+* * *
+
+> [Herbert] Simon characterizes the basic assumption of decision-making theory as follows:
+<p delete-line/>
+> > At each moment the behaving subject, or the organization composed of numbers of such indificuals, is confronted with a large number of alternative behaviors, some of which are present in consciousness and some of which are not. Decision, or choice, as the term is used here, is the process by which one of these alternatives for each moment's behavior is selected to be carried out. The series of such decisions which determines behavior over some stretch of time may be called a _strategy_. ... If any one of the possible strategies is chosen and followed out, certain consequences will result. The task of rational decision is to select that one of the strategies which is followed by the preferred set of consequences.
+<p delete-line/>
+> (Simon, _Administrative Behavior_ (1976), p. 67)
+
+I make decisions using a simpler approach: I relinquish that whatever be the fruits of my actions, not myself but *humanity* be the beneficiary; and this protects me from the danger of prefering actions whose outcomes benefit myself only. Then, entitled only to the actions but not to their outcomes, I consider which action would please me most to be performing, and this pleasure-seeking is my primary guide. I must caution that most of my readers will misunderstand me on this point, unless I add that one of my most important tasks in cultivating myself is to learn to feel pleasure and pain at the right things, so, for instance, if I feel pleasure from someone's misfortune, it indicates that I have more work to do in *educating* myself (and this, by the way, is how Aristotle defines _education_; 'learning to feel pleasure and pain from the right things.')
+
+The authors summarize Herbert Simon's view on the rational decision-making process:
+<p delete-line/>
+> Simon asserts that *rational* decision making is a process of choosing among alternatives, and that it involves a series of steps:
+<p delete-line/>
+> - Listing all the alternative strategies.
+> - Determining all the consequences that follow upon each of these strategies.
+> - Comparatively evaluating these sets of consequences.
+
+> This caveat is the major contribution of Simon.
+<p delete-line/>
+> > ... The word 'all' is used advisedly. It is obviously impossible for the individual to know 'all' his alternatives or 'all' their consequences, and this impossibility is a very important departure of actual behavior from the model of objective rationality.
+<p delete-line/>
+> (Simon, _Administrative Behavior_ (1976), p. 67)
+<p delete-line/>
+Well done, everybody; now we're at the heart of the matter: *different people will see different actions available to them*. This touches on the problem of why some of us are rich while others are poor. Much of that comes accidentally, but beyond accident, successful people and non-successful people take vastly different actions day-to-day. We are accustomed to believe that success is predicated on hard work, but I suspect poor people to be complicit in maintaining and cultivating their poverty by the actions they daily take: I think it may even be more difficult to be *un*successful.
+
+* * *
+
+On the emergence of cognitive science:
+<p delete-line/>
+> In declaring that it exists as a science, people are marking the emergence of what Lakatos calls a 'research programme.' Lakatos chooses this term in preference to Kuhn's 'paradigm' (_The Structure of Scientific Revolutions_, 1962) to emphasize the active role that a research programme plays in guiding the activity of scientists. He sees the history of science not as a cyclic pattern of revolution and normal science, but as a history of competing research programmes. He distinguishes between 'mature science,' consisting of research programmes, and 'immature science,' consisting of "a mere patched up pattern of trial and error."
+<p delete-line/>
+And I am provoked to re-declare my own undertaking using this attractive terminology: *I am pursuing a programme of research to understand and improve how humans and computers interact*.
+<p delete-line/>
+> A research programme is more than a set of specific plans for carrying out scientific activities. The observable details of the programme reflect a deeper coherence which is not routinely examined.
+<p delete-line/>
+And they go on to explain that this not-routinely-examined "deeper coherence" is problematic if it shapes intellection but is itself not properly understood; this is obvious to me; and I still like the sound of 'programme' to describe what *I* am up to.
+
+To look into: _The Structure of Scientific Revolutions_, by Thomas Kuhn.
+
+* * *
+
+Mr. Winograd and Mr. Flores point out an assumption that if false could topple all of Science: the assumption that phenomena observed 'in isolation' will yield general laws. Mr. Buckminster Fuller will point very simply to the concept of _synergy_, which law operates exactly opposite to how we're conducting our high-horsed scientific inquiry. Hmm. This seems very clear to me now. Are we looking at one of those huge paradoxes of our age, similar to the one where we expect doctors to keep us healthy who are paid when we get sick?
+
+I am reminded of something Thoreau observes: "Shams and delusions are esteemed for soundest truths, while reality is fabulous." (Thoreau, _Walden_)
+
+* * *
+
+> Gadamer devotes extensive discussion to the relation of the individual to tradition, clarifying how tradition and interpretation interact. Any individual, in understanding his or her world, is continually involved in activities of interpretation. That interpretation is based on prejudice (or _pre-understanding_), which includes assumptions implicit in the language that the person uses.
+<p delete-line/>
+Interesting connotation: _prejudice_ &#x27F7; _pre-understanding_.

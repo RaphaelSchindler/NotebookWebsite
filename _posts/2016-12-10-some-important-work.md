@@ -23,3 +23,5 @@ Look here: I'm all about having powerful conversations that can improve and infl
 I admire those who can be authentically self-expressed, with seemingly no attention being paid to how they come across. And don't get me wrong: I think manners and 'phatic utterances,' and all the mechanics of courtesy in our culture are of great importance. It's just that personally I have to have the pendulum swing the other way in order to free myself. And I am going to pay little or no mind to courtesy for a while. This is an experiment.
 
 I have some important work to do here, and I'd rather you know and understand me from what I accomplish for you and for humanity; than waste my energy in curating an image of myself for you that I'm 'harmless' and 'okay to be around.'
+
+<hr asterism>
