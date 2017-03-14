@@ -14,4 +14,7 @@ I am going to help software-makers design better software.
 Two:
 I am going to help people distinguish good software design from bad.
 
----Raphael
+With sincerity,
+Raphael
+
+<hr asterism>

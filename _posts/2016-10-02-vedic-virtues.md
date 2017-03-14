@@ -31,3 +31,5 @@ The _Bhagavad Gita_ lists these "divine qualities that should be cultivated for 
 - Cleanliness
 - Absence of malice
 - Absence of pride
+
+<hr asterism>
