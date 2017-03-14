@@ -96,7 +96,7 @@ What a computer does:
 
 * * *
 
-> Our commitment is to developing [sic] a new ground for rationality---one that is as rigorous as the rationalistic tradition in its aspirations but that does not share the presuppositions behind it."
+> Our commitment is to developing [_sic_] a new ground for rationality---one that is as rigorous as the rationalistic tradition in its aspirations but that does not share the presuppositions behind it.
 <p delete-line/>
 And:
 <p delete-line/>
