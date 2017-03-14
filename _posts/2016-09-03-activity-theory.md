@@ -1,8 +1,8 @@
 ---
-title: "From reading <i>Activity Theory in HCI [human-computer-interaction]: Fundamentals and Reflections</i>, by Victor Kaptelinin"
+title: "From reading <i>Activity Theory in HCI [human-computer interaction]: Fundamentals and Reflections</i>, by Victor Kaptelinin"
 ---
 
-# From reading _Activity Theory in HCI: Fundamentals and Reflections_, by Victor Kaptelinin
+# From reading _Activity Theory in HCI [human-computer interaction]: Fundamentals and Reflections_, by Victor Kaptelinin
 
 Around the late 1980s–early 1990s human-computer interaction (HCI) was reinventing itself as a field dealing with "human actors" rather than "human factors."
 
