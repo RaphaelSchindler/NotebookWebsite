@@ -21,8 +21,6 @@ They consider topics that "appear to be worlds apart," in order to "let the appa
 They treat certain questions in an interesting way; so they address the challenge, e.g. 'Can computers understand language?,' not in order to solve it, but rather to *dissolve* it.
 
 > We look towards new questions that can lead to the design and use of machines that are suited to human purposes.
-<p delete-line/>
----*Yess!!*
 
 Aside: I wonder: What are the various ways that technology can be satisfying?
 
@@ -236,3 +234,99 @@ I am reminded of something Thoreau observes: "Shams and delusions are esteemed f
 > Gadamer devotes extensive discussion to the relation of the individual to tradition, clarifying how tradition and interpretation interact. Any individual, in understanding his or her world, is continually involved in activities of interpretation. That interpretation is based on prejudice (or _pre-understanding_), which includes assumptions implicit in the language that the person uses.
 <p delete-line/>
 Interesting connotation: _prejudice_ &#x27F7; _pre-understanding_.
+
+* * *
+
+> Heidegger and Gadamer reject the commonsense philosophy of our culture in a deep and fundamental way. The prevalent understanding is based on the metaphysical revolution of Galileo and Descartes, which grew out of a tradition going back to Plato and Aristotle. This understanding, which goes hand in hand with what we have called the 'rationalistic orientation,' includes a kind of mind-body dualism that accepts the existence of two separate domains of phenomena, the _objective_ world of physical reality, and the _subective_ mental world of an individual's thoughts and feelings. Simply put, it rests on several taken-for-granted assumptions:
+<p delete-line/>
+> - We are inhabitants of a 'real world' made up of objects bearing properties. Our actions take place in that world.
+> - There are 'objective facts' about that world that do not depend on the interpretation (or even the presence) of any person.
+> - Perception is a process by which facts about the world are (sometimes inaccurately) registered in our thoughts and feelings.
+> - Thoughts and intentions about action can somehow cause physical (hence real-world) motion of our bodies.
+
+* * *
+
+Interesting:
+<p delete-line/>
+> Kant called it "a scandal of philosophy and of human reason in general" that over the thousands of years of Western culture, no philosopher had been able to provide a sound argument refuting psychological idealism---to answer the question "How can I know whether anything outside of my subjective consciousness exists?"<br><br>Heidegger argues that "the 'scandal of philosophy' is not that this proof has yet to be given, but that *such proofs are expected and attempted again and again*."
+
+* * *
+
+> By drawing a distinction that I (the subject) am perceiving something else (the object), I have stepped back from the primacy of experience and understanding that operates without reflection.
+
+* * *
+
+Aside: I feel presently, as it were, to be exploring the very perimeter of human understanding. (In all seriousness, that's what this book is about.) As Mr. Winograd and Mr. Flores consider how interpret<em>er</em> and interpret<em>ed</em> bleed into one another, my imagination is moving to suspect that all things correlate, and the question is arising, How can I be sure that the *future* does not influence the *present*?
+
+* * *
+
+They quote Gadamer (and I find this language to be beautiful):
+<p delete-line/>
+> It is not so much our judgments as it is our prejudices that constitute our being. ... the historicity of our existence entails that prejudices, in the literal sense of the word, constitute the initial directedness of our whole ability to experience. Prejudices are biases of our openness to the world. They are simply conditions whereby we experience something---whereby what we encounter says something to us.
+<p delete-line/>
+(Gadamer, _Philosophical Hermeneutics_ (1976), p. 9)
+
+It deserves repeating: "_Prejudices are biases of our openness to the world_."
+
+* * *
+
+They relate four significant points from Heidegger's work, and all are natural to me except the fourth, which piques me, and is interesting to chew on:
+<p delete-line/>
+- "Our implicit beliefs and assumptions cannot all be made explicit."---obviously.
+- "Practical understanding is more fundamental than detached theoretical understanding."---this is intuitive.
+- "We do not relate to things primarily through having representations of them."---whoever would've thought that?!
+- "Meaning is fundamentally social and cannot be reduced to the meaning-giving activity of the individual subjects."---here we go.
+
+* * *
+
+Interesting background on Heidegger's philosophy:
+<p delete-line/>
+> Many people encountering the work of Heidegger for the first time find it difficult to comprehend. Abstract terms like 'Dasein' and 'thrownness,' for instance, are hard to relate to reality. This is the opposite of what Heidegger intends. His philosophy is based on a deep awareness of everyday life. He argues that the issues he discusses are difficult not because they are abstruse, but because they are concealed by their 'ordinary everydayness.'
+
+* * *
+
+> In sum, Heidegger insists that it is meaningless to talk about the existence of objects and their properties in the absence of concernful activity, with its potential for breaking down. What really *is* is not defined by an objective omniscient observer, nor is it defined by an individual---the writer or computer designer---but rather by a space of potential for human concern and action. In the second part of the book we will show how shifting from a rationalistic to a Heideggerian perspective can radically alter our conception of computers and our approach to computer design.
+
+* * *
+
+This Maturana seems a capital fellow:
+> Beginning with a study of the neurophysiology of vision, which led to the classic work on the functional organization of the frog's retina, he [Maturana] went on to develop a theory of the organization of living systems and of language and cognition.
+
+* * *
+
+Conveying Maturana's discoveries in neurophysiology, they tell us:
+<p delete-line/>
+> There is no difference between perception and hallucination.
+
+* * *
+
+Aside: I wonder if all current endeavours at creating artificial intelligence are misguided: I wonder if their implementors are trying to represent knowledge in terms of objects and attributes, thinking that that's how our human nervous system works. (Mr. Winograd and Mr. Flores relate to us Maturana's work, which indicates a different sort of functioning.)
+
+* * *
+
+A fascinating way of viewing an organism:
+<p delete-line/>
+> The structure of the organism at any moment determines a _domain of perturbations_---a space of possible effects the medium [_ie_ the environment, _etc_] could have on ghe sequence of structural states that it could follow.
+
+* * *
+
+Two cool new words; _phylogeny_, _ontogeny_:
+<p delete-line/>
+> Maturana seeks to explain the origins of all phenomena of cognition in terms of the phylogeny (species history) and ontogeny (individual history) of living systems.
+
+* * *
+
+### Autopoiesis
+> Maturana and Varela characterize the organization of the living as 'autopoietic.' An autopoietic system is defined as:
+<p delete-line/>
+> > ... a network of processes of production (transformation and destruction) of components that produces the components that: (i) through their interactions and transformations continuously regenerate the network of processes (relations) that produced them; and (ii) constitute it (the machine) as a concrete unity in the space in which they (the components) exist by specifying the topological domain of its realization as such a network.
+<p delete-line/>
+> (Maturana and Varela, _Autopoiesis and Cognition_ (1980), p. 79)
+
+> If the autopoiesis is interrupted, the system's organization---its identity as a particular kind of unity---is lost, and the system disintegrates (dies). An autopoietic system that exists in physical space is a living system.
+
+The authors assure us:
+<p delete-line/>
+> At first sight, this definition may seem irrelevant or trivial. But it is in fact a carefully crafted statement expanding on a simple idea: the essential characteristic of a living system is that it is a collection of components constituting a unity that can live or die.
+
+<hr asterism>
