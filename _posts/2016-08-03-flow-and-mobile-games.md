@@ -4,7 +4,7 @@ title: "From reading <i>The Effect of Flow Experience and Social Norms on the Ad
 
 # From reading _The Effect of Flow Experience and Social Norms on the Adoption of Mobile Games in China_, by Shang Gao _et al_.
 
-> TAM [technology acceptance model] is widely acknowledged as one of the most robust and influential models for explaining user acceptance of technology. It is an adaptation of Theory of Reasoned Action (TRA). According to TRA, belief (an individual's subjective probability of the consequence of a particular behavior) influence as attitude (an individual's positive and negative feelings about a particular behavior), which in turn shapes behavioural intention.
+> TAM [technology acceptance model] is widely acknowledged as one of the most robust and influential models for explaining user acceptance of technology. It is an adaptation of Theory of Reasoned Action (TRA). According to TRA, belief (an individual's subjective probability of the consequence of a particular behavior) influencs attitude (an individual's positive and negative feelings about a particular behavior), which in turn shapes behavioural intention.
 
 > TAM [technology acceptance model] posits that users' IT acceptance is a function of two cognitive beliefs: perceived ease of use and perceived usefulness, and they are two primary determinants of information system acceptance.
 

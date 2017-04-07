@@ -8,7 +8,7 @@ title: "From reading <i>Understanding the Challenges and Opportunities of Smart 
 
 * * *
 
-> Limited work has examined the user experience of or practical issues associated with older cults adopting, learning, and using smart mobile devices over time in a naturalistic context.
+> Limited work has examined the user experience of or practical issues associated with older adults adopting, learning, and using smart mobile devices over time in a naturalistic context.
 
 * * *
 
@@ -22,7 +22,7 @@ title: "From reading <i>Understanding the Challenges and Opportunities of Smart 
 
 > Touchscreen interaction that accompanies smart mobile devices presents challenges for older people.
 
-> Older adults commonly confused the difference between SMS, iMessage, and e-mail but also experienced difficulty navigating the device to determine the location of a message they received."
+> Older adults commonly confused the difference between SMS, iMessage, and e-mail but also experienced difficulty navigating the device to determine the location of a message they received.
 
 > Several older adults also described responding to text messages through a phone call due to not knowing how to reply to or initiate text messaging on smart mobile devices.
 

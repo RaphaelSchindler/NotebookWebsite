@@ -289,7 +289,8 @@ Interesting background on Heidegger's philosophy:
 
 * * *
 
-This Maturana seems a capital fellow:
+This Maturana fellow sounds interesting:
+<p delete-line/>
 > Beginning with a study of the neurophysiology of vision, which led to the classic work on the functional organization of the frog's retina, he [Maturana] went on to develop a theory of the organization of living systems and of language and cognition.
 
 * * *
@@ -306,7 +307,7 @@ Aside: I wonder if all current endeavours at creating artificial intelligence ar
 
 A fascinating way of viewing an organism:
 <p delete-line/>
-> The structure of the organism at any moment determines a _domain of perturbations_---a space of possible effects the medium [_ie_ the environment, _etc_] could have on ghe sequence of structural states that it could follow.
+> The structure of the organism at any moment determines a _domain of perturbations_---a space of possible effects the medium [_ie_ the environment, _etc_] could have on the sequence of structural states that it could follow.
 
 * * *
 
@@ -328,5 +329,99 @@ Two cool new words; _phylogeny_, _ontogeny_:
 The authors assure us:
 <p delete-line/>
 > At first sight, this definition may seem irrelevant or trivial. But it is in fact a carefully crafted statement expanding on a simple idea: the essential characteristic of a living system is that it is a collection of components constituting a unity that can live or die.
+
+* * *
+
+### Reflection
+I am fascinated by books of this kind. I mean the kind that have something important to say, but that few are reading. I am reminded of an observation Thoreau makes (and the 'golden words' he refers to are the 'classics,' _ie_ the works of classical literature):
+<p delete-line/>
+> A man, any man, will go considerably out of his way to pick up a silver dollar; but here are golden words, which the wisest men of antiquity have uttered, and whose worth the wise of every succeeding age have assured us of;---and yet we learn to read only as far as Easy Reading, the primers and class-books, and when we leave school, the "Little Reading," and story-books, which are for boys and beginners; and our reading, our conversation and thinking, are all on a very low level, worthy only of pygmies and manikins.
+<p delete-line/>
+(Thoreau, _Walden_)
+
+In this book specifically, I myself am feeling strained as the authors require me to delve deep into philosophy. Not that I don't enjoy it, however I'm rather a snorkeler than a diver: if I am to explore something deep, I'll involve many trips to the surface to do so. A book that requires me to dive *inconveniently* is less fun to read than the best books, which allow the reader to choose his degree of immersion. (Again I think of _Walden_, which I've re-read countless times, each re-reading not having failed to produce new insights.)
+
+* * *
+
+The concept of the _observer_:
+<p delete-line/>
+> Maturana:
+<p delete-line/>
+> > An observer is a human being, a person, a living system who can make distinctions and specify that which he or she distinguishes as a unity...and is able to operate as if he or she were external to (distinct from) the circumstances in which the observer finds himself or herself. Everything said is said by an observer to another observer, who can be himself or herself.
+<p delete-line/>
+> (Maturana, _Biology of language_, p. 31)
+
+> As observers, we generate _distinctions_ in a consensual domain.
+
+> What is different and crucial in Maturana's discourse is the recognition that distinctions lie in a consensual domain---that they presuppose some kind of social interaction in which the observer is engaged:
+<p delete-line/>
+> > The linguistic domain as a domain of orienting behavior requires at least two interacting organisms with comparable domains of interactions, so that a cooperative system of consensual interactions may be developed in which the emerging conduct of the two organisms is relevant for both. ... The central feature of human existence is its occurrence in a linguistic cognitive domain. This domain is constitutively social.
+<p delete-line/>
+(Maturana, _Biology of cognition_ (1970), pp. 41, xxiv)
+
+* * *
+
+> The most successful designs are not those that try to fully model the domain in which they operate, but those that are 'in alignment' with the fundamental structure of that domain, and that allow for modification and evolution to generate new structural coupling. As observers (and programmers), we want to understand to the best of our ability just what the relevant domain of action is. This understanding guides our design and selection of structural changes, but need not (and in fact cannot) be embodied in the form of the mechanism.
+
+* * *
+
+> The world is encountered as something always already lived in, worked in, and acted upon. World as the background of obviousness is manifest in our everyday dealings as the familiarity that pervades our situation, and every possible utterance presupposes this. Listening for our possibilities in a world in which we already dwell allows us to speak and to elicit the cooperation of others. That which is not obvious is made manifest through language. What is unspoken is as much a part of the meaning as what is spoken.
+
+* * *
+
+To look into: _How to Do Things with Words_ (1962), by J. L. Austin.
+
+And also: _A taxonomy of illocutionary acts_ (1975), by Searle.
+
+> Austin studied a class of utterances (which he termed 'performatives') that do not refer to states of the world, but that in themselves constitute acts such as promising, threatening, and naming. He argued that the generally accepted view of the truth and falsity of propositions was not applicable to many of these speech acts. It does not make sense to ask whether a particular utterance of "I pronounce you man and wife" or "Get me a hamburger" is true or false, but rather whether it is _felicitous_---whether it is appropriate to the context in which it is uttered.
+
+> Austin's student Searle (_Speech Acts_, 1969) formalized the structure of the felicity conditions associated with a variety of speech acts, such as promising and requesting. In _A taxonomy of illocutionary acts_ (1975) he classified all speech acts as embodying one of five fundamental _illocutionary points_.
+
+> The five categories of illocutionary point are:<br>
+**Assertives**: commit the speaker (in varying degrees) to something's being the case---to the truth of the expressed proposition.<br>
+**Directives**: attempt (in varying degrees) to get the hearer to do something. These include both questions (which can direct the hearer to make an assertive speech act in response) and commands (which attempt to get the hearer to carry out some linguistic or non-linguistic act).<br>
+**Commissives**: commit the speaker (again in varying degrees) to some future course of action.<br>
+**Expressives**: express a psychological state about a state of affairs. This class includes acts such as apologizing and praising.<br>
+**Declarations**: bring about the correspondence between the propositional content of the speech act and reality [*consensual* reality, I would clarify], as illustrated by the example of pronouncing a couple married.
+
+> Searle distinguishes among the _illocutionary point_ of an utterance, its _illocutionary force_, and its _propositional content_. The illocutionary point is one of the five categories above. Two speech acts (such as a polite question and a demand for information) may differ in their illocutionary force (manner and degree) while having the same illocutionary point (in this case a directive). The fact that an utterance involves a proposition about some topic, such as the speaker's attendance at a particular meeting at a particular time, is its propositional content.
+
+* * *
+
+> Langugage and cognition are fundamentally social. Maturana, Gadamer, and Heidegger all argue that our ability to think and to give meaning to language is rooted in our participation in a society and a tradition.
+
+* * *
+
+> Through [Maturana's] structural coupling, an organism comes to have a structure that allows it to function successfully within its medium.
+
+* * *
+
+Love this sentence:
+<p delete-line/>
+> For Heidegger, 'things' emerge in breakdown, when unreadiness-to-hand unconceals them as a matter of concern.
+
+* * *
+
+A fascinating consequence:
+<p delete-line/>
+> Popular accounts of language often portray it as a means of communication by which information is passed from one person (or machine) to another. An important consequence of the critique presented in the first part of this book is that language cannot be understood as the transmission of information.
+
+> Language is a form of human social action, directed towards the creation of what Maturana calls 'mutual orientation. This orientation is not grounded in a correspondence between language and the world, but exists as a consensual domain---as interlinked patterns of activity.
+
+> The shift from language as description to language as action is the basis of speech act theory, which emphasizes the *act* of language rather than its representational role.
+
+* * *
+
+> To be human is to be the kind of being that generates commitments, through speaking and listening. Without our ability to create and accept (or decline) commitments we are acting in a less than fully human way, and we are not fully using language.
+
+* * *
+
+> Computers are fundamentally tools for human action. Their power as tools for linguistic action derives from their ability to manipulate formal tokens of the kinds that constitute the structural elements of languages.
+
+* * *
+
+> Design can be created and implemented only in the space that emerges in the recurrent structure of breakdown. A design constitute an interpretation of breakdown and a committed attempt to anticipate future breakdowns.
+
+
 
 <hr asterism>
